@@ -20,6 +20,8 @@ depends: [
   "irmin-fs"
   "irmin-unix"
   "logs"
+  "lwt"
+  "lwt_ppx"
   "mirage-crypto-ec"
   "mirage-kv"
   "ppxlib"
